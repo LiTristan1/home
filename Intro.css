@@ -1,0 +1,44 @@
+#W3C
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+
+p
+{
+	text-align: justify;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+h2
+{
+	text-align: center;
+}
+
+ul
+{
+ font-size: 18px;
+ font-weight: bold;
+ text-align: center;
+ margin-right: 25%;
+ margin-left: 25%;
+}
+
+body
+{
+background-image: url("images/DolphinJumping.jpg");
+ /* Full height--*/
+ height: 100%;
+ /*Center and Scale the image*/
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+h1
+{
+	text-align: center;
+}

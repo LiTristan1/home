@@ -1,0 +1,55 @@
+#irrawaddy
+{
+	font-size:30px;
+}
+#Australian
+{
+	font-size:30px;
+}
+#Indus
+{
+	font-size:30px;
+}
+
+p
+{
+	text-align: justify;
+}
+
+body
+{
+/* adding background image to improve quality of website*/
+background-image: url("images/SadDolphin.jpg");
+ /* Full height--*/
+ height: 100%;
+ /*Center and Scale the image*/
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+P
+
+{
+	color: white;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+td
+{
+ color: white;
+}
+
+h1,h2
+{
+ color: solid black;
+ text-align: center;
+}
+
+caption
+{
+	color: white;
+}
+
+
+

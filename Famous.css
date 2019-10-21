@@ -1,0 +1,38 @@
+p
+{
+	margin-left: 25%;
+	margin-right: 25%;
+	font-size: 18px;
+	text-align: justify;
+	color: white;
+}
+h1,h2,h3
+{
+	text-align: center;
+}
+
+.Iceberg
+{
+	text-align: center;
+}
+
+body
+{
+background-image: url("images/sea.jpg");
+ /* Full height--*/
+ height: 100%;
+ /*Center and Scale the image*/
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+li
+{
+	color: white;
+}
+
+h1,h2,h3
+{
+	color: white;
+}
+

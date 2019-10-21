@@ -1,0 +1,61 @@
+p
+{
+	margin-left: 25%;
+	margin-right: 25%;
+	font-size: 18px;
+	text-align: justify;
+	color: white;
+}
+
+h1,h2
+{
+	text-align: center;
+}
+
+
+ul
+{
+	margin-left: 25%;
+	margin-right:25%;
+	text-align: justify;
+	font-size: 18px;
+	color: white;
+}
+
+iframe
+{
+	margin-left: 50%;
+	margin-right: 50%;
+}
+
+.NotDolphin
+{
+	text-align: center;
+}
+
+.Video1
+{
+	text-align: center;
+}
+
+body
+{
+ background-image: url("images/Background1.jpg");
+ /* Full height--*/
+ height: 100%;
+ /*Center and Scale the image*/
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+td
+{
+ color: white;
+}
+
+caption
+{
+	font-size: 25px;
+	color: white;
+}
